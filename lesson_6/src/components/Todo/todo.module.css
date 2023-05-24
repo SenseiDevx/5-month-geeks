@@ -1,0 +1,17 @@
+.list {
+    width: 500px;
+    height: 50px;
+    background-color: mediumaquamarine;
+    margin: 20px auto;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.checkBut {
+    width: 200px;
+    justify-content: space-between;
+    display: flex;
+}
