@@ -1,0 +1,16 @@
+.App {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.link {
+    font-family: 'DM Sans', sans-serif;
+}
+
+.link.active {
+    color: red;
+    font-weight: bold;
+    font-family: 'DM Sans', sans-serif;
+}
